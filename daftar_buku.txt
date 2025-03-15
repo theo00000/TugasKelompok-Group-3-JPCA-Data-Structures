@@ -1,0 +1,7 @@
+Mein Kampf;Otobiografi;Adolf Hitler;1925;true
+Dilan 1990;Romansa;Pidi Baiq;2014;true
+Laskar Pelangi;Novel;Andrea Hirata;2005;true
+Atomic Habits;Self-Development;James Clear;2018;true
+Pemrograman Java;Teknologi;Eko Kurniawan;2020;true
+Dilan 1990;Romansa;Pidi Baiq;2014;true
+Rich Dad Poor Dad;Keuangan;Robert T. Kiyosaki;1997;true
